@@ -2,7 +2,7 @@
 
 <!--
 **Ritu2705/Ritu2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Fundamentals.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ritu67484@gmail.com
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: Happy to Learn.
--->
+
