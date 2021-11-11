@@ -5,7 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Fundamentals.
+- 🔭 I’m currently learning Full stack development from upGrad.
+.
 - 🌱 I’m currently learning GITHUB.
 - 👯 I’m looking to collaborate on opensource projects.
 - 🤔 I’m looking for help with GITHUB repo.
